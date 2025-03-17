@@ -7,11 +7,11 @@ I'm gkmzfk6um, a passionate developer interested in various technologies. Welcom
 - 🌱 I’m currently doing a ausbildung as an IT-Specialist
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about anything tech-related.
-- 📫 How to reach me: [Your Email or Social Media Links]
+- 📫 How to reach me: Joachim@kr1eg3r.de
 - 🌐 My personal website: kr1eg3r.de
 
 ## Languages and Tools
-- **Languages:** Python, js, php
+- **Languages:** Powershell, Python, js, php
 - **Tools:** WSL, VS-code , cloudflair-tools, t3.chat , docker
 
 ## Projects
